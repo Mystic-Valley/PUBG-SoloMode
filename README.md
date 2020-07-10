@@ -11,7 +11,7 @@ Battlegrounds is a player versus player shooter game in which up to one hundred 
 This dataset contains data of 87898 entries and having 152 columns containing Solo, Duo and Squad modes having 50 columns each.
 
 ## Update
-The first kernel , i.e. SKLearn Version is very naive is can be considered as a wrong approach
+The first kernel , i.e. SKLearn Version is very naive way.
 The second kernel is developed using TF keras in simplest way possible. For better clarification, the preprocessing is done in a seperate kernel.
 
 
