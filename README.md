@@ -12,6 +12,7 @@ This dataset contains data of 87898 entries and having 152 columns containing So
 
 ## Update
 The first kernel , i.e. SKLearn Version is very naive way.
+
 The second kernel is developed using TF keras in simplest way possible. For better clarification, the preprocessing is done in a seperate kernel.
 
 
